@@ -36,10 +36,10 @@
 + After execution of above commands hit [localhost:8000](http://localhost:8000)
 + This will open WordPress page.
 
-<img width="1436" alt="1" src="https://github.com/rajatmall05/docker/assets/119091034/40ff7bdc-3f4e-45ed-a028-8b3786509e8d">
-<img width="1440" alt="2" src="https://github.com/rajatmall05/docker/assets/119091034/a38bffea-ac03-4713-b6fe-8f1673c9724f">
-<img width="1440" alt="3" src="https://github.com/rajatmall05/docker/assets/119091034/03ce4c17-8da3-4630-940a-45d955a0b72c">
-<img width="1440" alt="4" src="https://github.com/rajatmall05/docker/assets/119091034/23f39aba-1801-4e7b-94ef-db7864fea4dc">
+<img width="1436" alt="1" src="https://github.com/rajatmall05/rajat_mall_devops-assignment/assets/119091034/f24fbf18-0b45-4e03-8ecb-b4b76b6dfbe8">
+<img width="1440" alt="2" src="https://github.com/rajatmall05/rajat_mall_devops-assignment/assets/119091034/88335dfe-b245-4e3a-af11-94ae6008a675">
+<img width="1440" alt="3" src="https://github.com/rajatmall05/rajat_mall_devops-assignment/assets/119091034/c453e119-222a-4166-9be2-b3dfa87782f8">
+<img width="1440" alt="4" src="https://github.com/rajatmall05/rajat_mall_devops-assignment/assets/119091034/99910fc8-b717-409d-bdb8-225f4a2e5ba2">
 
 
 ## Task 2:
@@ -136,8 +136,8 @@
 + After execution of above command hit [localhost:8080](http://localhost:8080)
 + This will open phpMyAdmin page
 
-<img width="1440" alt="5" src="https://github.com/rajatmall05/docker/assets/119091034/b36889c8-6f00-47a7-8e9b-a78356e09a1c">
-<img width="1440" alt="6" src="https://github.com/rajatmall05/docker/assets/119091034/7d38312a-ce02-4e6b-be7c-5bb3ba14f10e">
+<img width="1440" alt="5" src="https://github.com/rajatmall05/rajat_mall_devops-assignment/assets/119091034/c565965c-878d-485a-881c-afcf393d4baf">
+<img width="1440" alt="6" src="https://github.com/rajatmall05/rajat_mall_devops-assignment/assets/119091034/c47caf97-0156-4b7a-8905-8189fd921a3c">
 
 ## Task 3:
 **Step 1:**
