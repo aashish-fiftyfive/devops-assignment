@@ -118,4 +118,5 @@ Monitor Performance : Continuously monitor the performance of database using too
 
 [Documentation]https://drive.google.com/file/d/1Hg1HVKEvQ1AfaMrXGnh9jTEAuk-m5YKL/view?usp=sharing
 
+[Project link] http://13.233.190.208/wp-admin/install.php
 
